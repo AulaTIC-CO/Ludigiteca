@@ -1,0 +1,25 @@
+{ "columns":1,
+ "image":"restaurante_285x320---.png",
+ "imageheight":320,
+ "imagewidth":285,
+ "margin":0,
+ "name":"restaurante_285x320---",
+ "properties":
+    {
+     "superficie":"\n[[0,0],[1,0],[0,1],[1,1],[0,2],[1,2],[0,3],[1,3],[0,4],[1,4]]"
+    },
+ "propertytypes":
+    {
+     "superficie":"string"
+    },
+ "spacing":0,
+ "tilecount":1,
+ "tileheight":320,
+ "tileoffset":
+    {
+     "x":0,
+     "y":73
+    },
+ "tilewidth":285,
+ "type":"tileset"
+}

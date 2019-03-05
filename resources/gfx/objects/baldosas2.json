@@ -1,0 +1,17 @@
+{ "columns":10,
+ "image":"Suelos_84x42----.png",
+ "imageheight":462,
+ "imagewidth":840,
+ "margin":0,
+ "name":"Suelos_84x42----",
+ "spacing":0,
+ "tilecount":110,
+ "tileheight":42,
+ "tileoffset":
+    {
+     "x":-1,
+     "y":0
+    },
+ "tilewidth":84,
+ "type":"tileset"
+}

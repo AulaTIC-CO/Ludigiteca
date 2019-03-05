@@ -1,0 +1,25 @@
+{ "columns":22,
+ "image":"box143x344.png",
+ "imageheight":344,
+ "imagewidth":3266,
+ "margin":0,
+ "name":"box143x344",
+ "properties":
+    {
+     "type":"box"
+    },
+ "propertytypes":
+    {
+     "type":"string"
+    },
+ "spacing":0,
+ "tilecount":22,
+ "tileheight":344,
+ "tileoffset":
+    {
+     "x":-34,
+     "y":50
+    },
+ "tilewidth":143,
+ "type":"tileset"
+}

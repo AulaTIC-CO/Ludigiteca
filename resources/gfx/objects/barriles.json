@@ -1,0 +1,17 @@
+{ "columns":1,
+ "image":"barril1_179x124---48x14.png",
+ "imageheight":124,
+ "imagewidth":179,
+ "margin":0,
+ "name":"barril1_179x124---48x14",
+ "spacing":0,
+ "tilecount":1,
+ "tileheight":124,
+ "tileoffset":
+    {
+     "x":35,
+     "y":50
+    },
+ "tilewidth":179,
+ "type":"tileset"
+}

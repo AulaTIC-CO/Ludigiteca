@@ -1,0 +1,17 @@
+{ "columns":1,
+ "image":"escaleras300x160.png",
+ "imageheight":160,
+ "imagewidth":300,
+ "margin":0,
+ "name":"escaleras300x160",
+ "spacing":0,
+ "tilecount":1,
+ "tileheight":160,
+ "tileoffset":
+    {
+     "x":0,
+     "y":43
+    },
+ "tilewidth":300,
+ "type":"tileset"
+}

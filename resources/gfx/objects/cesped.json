@@ -1,0 +1,17 @@
+{ "columns":4,
+ "image":"Cesped_87x76.png",
+ "imageheight":76,
+ "imagewidth":348,
+ "margin":0,
+ "name":"Cesped_87x76",
+ "spacing":0,
+ "tilecount":4,
+ "tileheight":76,
+ "tileoffset":
+    {
+     "x":-2,
+     "y":25
+    },
+ "tilewidth":87,
+ "type":"tileset"
+}

@@ -1,0 +1,17 @@
+{ "columns":4,
+ "image":"Baldosas_84x46.png",
+ "imageheight":138,
+ "imagewidth":336,
+ "margin":0,
+ "name":"Baldosas_84x46",
+ "spacing":0,
+ "tilecount":12,
+ "tileheight":46,
+ "tileoffset":
+    {
+     "x":0,
+     "y":2
+    },
+ "tilewidth":84,
+ "type":"tileset"
+}

@@ -1,0 +1,25 @@
+{ "columns":12,
+ "image":"mujer2 78x100.png",
+ "imageheight":800,
+ "imagewidth":936,
+ "margin":0,
+ "name":"mujer2 78x100",
+ "properties":
+    {
+     "type":"player"
+    },
+ "propertytypes":
+    {
+     "type":"string"
+    },
+ "spacing":0,
+ "tilecount":96,
+ "tileheight":100,
+ "tileoffset":
+    {
+     "x":3,
+     "y":-10
+    },
+ "tilewidth":78,
+ "type":"tileset"
+}

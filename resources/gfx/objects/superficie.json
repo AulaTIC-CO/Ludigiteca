@@ -1,0 +1,17 @@
+{ "columns":3,
+ "image":"superficie69x38.png",
+ "imageheight":38,
+ "imagewidth":207,
+ "margin":0,
+ "name":"superficie69x38",
+ "spacing":0,
+ "tilecount":3,
+ "tileheight":38,
+ "tileoffset":
+    {
+     "x":4,
+     "y":-4
+    },
+ "tilewidth":69,
+ "type":"tileset"
+}

@@ -1,0 +1,25 @@
+{ "columns":2,
+ "image":"lamparas50x137.png",
+ "imageheight":137,
+ "imagewidth":100,
+ "margin":0,
+ "name":"lamparas50x137",
+ "properties":
+    {
+     "superficie":"[[0,0]]"
+    },
+ "propertytypes":
+    {
+     "superficie":"string"
+    },
+ "spacing":0,
+ "tilecount":2,
+ "tileheight":137,
+ "tileoffset":
+    {
+     "x":17,
+     "y":-8
+    },
+ "tilewidth":50,
+ "type":"tileset"
+}

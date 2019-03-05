@@ -1,0 +1,20 @@
+{ "columns":1,
+ "image":"box 84x50.png",
+ "imageheight":50,
+ "imagewidth":84,
+ "margin":0,
+ "name":"box 84x50",
+ "properties":
+    {
+     "type":"box"
+    },
+ "propertytypes":
+    {
+     "type":"string"
+    },
+ "spacing":0,
+ "tilecount":1,
+ "tileheight":50,
+ "tilewidth":84,
+ "type":"tileset"
+}

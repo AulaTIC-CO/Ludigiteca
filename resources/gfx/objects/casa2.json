@@ -1,0 +1,25 @@
+{ "columns":1,
+ "image":"casa2_269x251---128x137.png",
+ "imageheight":251,
+ "imagewidth":269,
+ "margin":0,
+ "name":"casa2_269x251---128x137",
+ "properties":
+    {
+     "superficie":"[[0,0],[1,0],[2,0],[0,1],[1,1],[2,1],[0,2],[1,2],[2,2]]"
+    },
+ "propertytypes":
+    {
+     "superficie":"string"
+    },
+ "spacing":0,
+ "tilecount":1,
+ "tileheight":251,
+ "tileoffset":
+    {
+     "x":-2,
+     "y":28
+    },
+ "tilewidth":269,
+ "type":"tileset"
+}
