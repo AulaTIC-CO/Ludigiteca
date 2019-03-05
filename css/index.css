@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: none;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+body {
+    width: 100%;
+    background-color: darkgray;
+}
+
+#canvasContainer {
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+#pdfView {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .8);
+}
+
+.hidden {
+    display: none;
+}
+
+#videoContainer {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .8);
+}
+
+#questionContainer {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .8);
+}

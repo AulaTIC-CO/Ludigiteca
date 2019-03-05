@@ -1,0 +1,70 @@
+<!doctype>
+<html>
+
+<head>
+    <title>Ludigiteca</title>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <link rel="icon" type="image/png" href="img/icon.png">
+    <link rel="icon" type="image/png" href="img/icon.png">
+    <link rel="stylesheet" href="./css/index.css">
+    <!--script scr="./js/libs/pixi.min.js"></script-->
+    <script src="./js/libs/pixi.min.js"></script>
+    <script data-main="./js/main" src="./js/require.js" defer></script>
+
+</head>
+
+<body>
+    <div id="canvasContainer">
+    </div>
+    <!--div id="videoContainer" class="hiddenx">
+			<div id="player"></div>
+			<script>
+			  // 2. This code loads the IFrame Player API code asynchronously.
+			  var tag = document.createElement('script');
+
+			  tag.src = "https://www.youtube.com/iframe_api";
+			  var firstScriptTag = document.getElementsByTagName('script')[0];
+			  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+			  // 3. This function creates an <iframe> (and YouTube player)
+			  //    after the API code downloads.
+			  var player;
+			  function onYouTubeIframeAPIReady() {
+				player = new YT.Player('player', {
+				  height: '600',
+				  width: '800',
+				  videoId: 'M7lc1UVf-VE',
+				  events: {
+					'onReady': onPlayerReady,
+					'onStateChange': onPlayerStateChange
+				  }
+				});
+			  }
+
+			  // 4. The API will call this function when the video player is ready.
+			  function onPlayerReady(event) {
+				event.target.playVideo();
+			  }
+
+			  // 5. The API calls this function when the player's state changes.
+			  //    The function indicates that when playing a video (state=1),
+			  //    the player should play for six seconds and then stop.
+			  var done = false;
+			  function onPlayerStateChange(event) {
+				if (event.data == YT.PlayerState.PLAYING && !done) {
+				  setTimeout(stopVideo, 6000);
+				  done = true;
+				}
+			  }
+			  function stopVideo() {
+				player.stopVideo();
+			  }	
+			</script>
+		</div-->
+    <div id="questionContainer" class="hidden"></div>
+    <div id="pdfView" class="hidden"></div>
+</body>
+
+</html>
